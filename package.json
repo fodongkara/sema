@@ -1,0 +1,17 @@
+{
+  "name": "Sema",
+  "version": "1.0.0",
+  "description": "Simple chat application",
+  "main": "src/index.js",
+  "repository": "https://github.com/fodongkara/sema.git",
+  "author": "Frank Odongkara",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "scripts": {
+    "dev": "node src/index.js"
+  }
+}
